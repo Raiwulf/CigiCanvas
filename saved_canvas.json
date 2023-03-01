@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Sample",
+        "y": 0,
+        "x": 0,
+        "width": 256,
+        "height": 256,
+        "textcolor": "black",
+        "fgcolor": "white",
+        "alpha": 100,
+        "userInput": "Welcome!\nThis is your first canvas"
+    }
+]
